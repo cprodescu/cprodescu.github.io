@@ -1,3 +1,13 @@
 div.jumbotron {
     margin-bottom: 0px;
+    padding: 20px;
+}
+
+img.icon {
+    width: 20px;
+    height: 20px;
+}
+
+.jumbotron p {
+    margin-bottom: 10px;
 }
